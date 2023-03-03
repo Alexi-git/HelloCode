@@ -12,3 +12,4 @@ while (index < n)
     //index = index + 1;
     index++;
 }
+Console
